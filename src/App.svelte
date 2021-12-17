@@ -58,7 +58,7 @@
   }
   @font-face {
     font-family: Christmas;
-    src: url(PWHappyChristmas.ttf);
+    src: url(PWHappyChristmas.woff2) format("woff2");
   }
   main {
     text-align: center;
